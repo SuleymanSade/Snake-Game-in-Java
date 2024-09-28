@@ -1,3 +1,4 @@
-First I made a classic snake game to improve my coding. Then I decided to challenge myself by making the snake game multiplayer, so there are 2 versions for snake game.
-You can also play the classic snake game from 2player snake game.
-Have fun!
+There are two versions of the game multiplayer and single-player.
+Single-player doesn't work as well as the multiplayer game file.
+But there is a single-player option in multiplayer files, so it is probably better to use multiplayer(file).
+The multiplayer version of the game uses WASD and arrow keys.
